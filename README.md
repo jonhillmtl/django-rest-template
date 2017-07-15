@@ -17,7 +17,7 @@ You can fork this project as a starting point for your Django-based JSON Web Tok
 
 - install `Docker`
 - fork the repo
-- check for `TODO: TEMPLATE-USER` in the codebase, and modify the code accordingly
+- check for `TODO TEMPLATE-USER:` in the codebase, and modify the code accordingly
 - `docker-compose up --build`
 
 
